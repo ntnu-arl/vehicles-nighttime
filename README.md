@@ -23,8 +23,10 @@ Some images were collected from a **moving bus**, and others were collected with
 
 Images         |  Overview                                                                                             | Background 
 -----------------------------------------------------------------------------------------------------------------------------------
-0 - 2006       | Filmed from Bus, non-static background                                                                | Dynamic                    
+0 - 2006       | Filmed from Bus, non-static background                                                                | Dynamic
+
 2007 - 8247    | Filmed from roadside at intersection of N. Virginia St. and College Dr. (3 different vantage points)  | Static
+
 8248 - 10193   | Filmed from roadside at intersection of Sierra St. and College Ct. (2 different vantage points)       | Static
 
 Indicative images are shown below:
